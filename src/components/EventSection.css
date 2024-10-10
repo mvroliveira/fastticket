@@ -1,0 +1,9 @@
+.event-section {
+  display: flex;
+  justify-content: space-around; /* Alinha os eventos em espaço igual */
+  align-items: center;
+  padding: 20px;
+  background-color: #fff; /* Fundo branco */
+  margin-bottom: 30px;
+  border-radius: 10px; /* Bordas arredondadas */
+}
